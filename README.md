@@ -31,6 +31,10 @@
 | `D_inner_3mmLED.stl` | 内側パーツ | 3mm LED用 |
 | `key_charm.stl` | 鍵チャーム | ネオジム磁石を仕込むキーチェーン |
 
+ヒンジ（C）は、次の向きでの印刷を推奨します。
+
+<img src="images/hinge_print_orientation.jpg" alt="ヒンジの推奨印刷向き" width="400">
+
 ## 材料（1個分）
 
 ### 電子部品（秋月電子通商）
@@ -92,7 +96,7 @@
 
 ## クレジット
 
-- 設計相談：[ハヤカワ五味さん](https://x.com/GomiHgy)
+- 設計相談：[五味さん（EdelWorksPrj）](https://x.com/GomiHgy)
 - CADデータ作成：株式会社なかよし uni
 
 ### スポンサー（カンパ）
