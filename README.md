@@ -90,6 +90,20 @@
 4. 配線の挟み込み・接触（マスキングテープの絶縁がはがれていないか）
 5. はんだ付けの外れ
 
+## クレジット
+
+- 設計相談：[ハヤカワ五味さん](https://x.com/GomiHgy)
+- CADデータ作成：株式会社なかよし uni
+
+### スポンサー（カンパ）
+
+- iketomo様（歩宇宙株式会社 代表取締役）
+- いぶし銀様（AIリスキリング中／女児の母）
+- [kiyo様](https://m.youtube.com/@kiyo3d)
+- [saldra様](https://x.com/sald_ra)（生成AIなんでも展示会主催）
+- [白川みちる様](https://x.com/micchiebear)（TinyGo Keeb）
+- [fumi様](https://x.com/_fumiT)
+
 ## ライセンス
 
 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)（表示・非営利）
