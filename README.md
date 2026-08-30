@@ -28,12 +28,14 @@
 | `B_body_lid_mirror.stl` | ボディ（蓋）        | ミラーを両面テープで固定する側   |
 | `C_hinge.stl`           | ヒンジ              | ボディ上下をつなぐ               |
 | `D_inner_5mmLED.stl`    | 内側パーツ（穴7mm） | 5mm LED＋拡散カバー用            |
-| `D_inner_3mmLED.stl`    | 内側パーツ          | 3mm LED用                        |
+| `D_inner_3mmLED.stl`    | 内側パーツ          | 3mm LED用（推奨）                |
 | `key_charm.stl`         | 鍵チャーム          | ネオジム磁石を仕込むキーチェーン |
 
 ヒンジ（C）は、次の向きでの印刷を推奨します。
 
 <img src="images/hinge_print_orientation.jpg" alt="ヒンジの推奨印刷向き" width="400">
+
+> 💡 内側パーツ（D）は**3mm LEDを想定して設計**しています。5mm LED用（`D_inner_5mmLED.stl`）でも使えますが、若干しまりが悪いため、3mm LED＋`D_inner_3mmLED.stl` の組み合わせがおすすめです。
 
 > 💡 鍵チャーム（`key_charm.stl`）は、作者の手元にあったストーンに合わせて設計したものです。無理にこのデータを使わなくても、**好きなキーチェーンの裏面にネオジム磁石を貼るだけ**で鍵パーツになります。セボンスターのようなアクセサリー玩具もおすすめです。
 
